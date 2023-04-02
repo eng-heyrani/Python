@@ -11,7 +11,9 @@
 ##### 5-Lesson 005.py    ====>    [*"Avariety of string capabilities"*](https://github.com/eng-heyrani/Python/blob/main/Lesson%20005.py)
 ##### 6-Lesson 006.py    ====>    [*"Types of conditions (01)"*](https://github.com/eng-heyrani/Python/blob/main/Lesson%20006.py)
 ##### 7-Lesson 007.py    ====>    [*"Types of conditions (02)"*](https://github.com/eng-heyrani/Python/blob/main/Lesson%20007.py)
-##### 8-Lesson 008.py    ====>    [*"List"*](https://github.com/eng-heyrani/Python/blob/main/Lesson%20008.py)
+##### 8-Lesson 008.py    ====>    [*"List(01)"*](https://github.com/eng-heyrani/Python/blob/main/Lesson%20008.py)
+##### 9-Lesson 009.py    ====>    [*"List(02)"*](https://github.com/eng-heyrani/Python/blob/main/Lesson%20009.py)
+
 # Contact US
 *Creative by Alireza Heyrani*<br>
 *Join us :* 
