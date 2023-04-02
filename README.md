@@ -1,4 +1,4 @@
-# Python
+# Python Course
 *Hello, I am Alireza Heyrani, a web designer and developer ...*
 <br>
 ***I am a student of Mr. Mehdi Rezaei Python course and I am sharing the class file with you friends.***
