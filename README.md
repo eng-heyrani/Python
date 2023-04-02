@@ -9,9 +9,9 @@
 ##### 3-Lesson 003.py    ====>    [*"clean code"*](https://github.com/eng-heyrani/Python/blob/main/Lesson%20003.py)
 ##### 4-Lesson 004.py    ====>    [*"Types of operators in Python"*](https://github.com/eng-heyrani/Python/blob/main/Lesson%20004.py)
 ##### 5-Lesson 005.py    ====>    [*"Avariety of string capabilities"*](https://github.com/eng-heyrani/Python/blob/main/Lesson%20005.py)
-##### 6-Lesson 006.py    ====>    [*"Types of conditions"*](https://github.com/eng-heyrani/Python/blob/main/Lesson%20006.py)
-##### 7-Lesson 007.py    ====>    [*""*](https://github.com/eng-heyrani/Python/blob/main/Lesson%20007.py)
-
+##### 6-Lesson 006.py    ====>    [*"Types of conditions (01)"*](https://github.com/eng-heyrani/Python/blob/main/Lesson%20006.py)
+##### 7-Lesson 007.py    ====>    [*"Types of conditions (02)"*](https://github.com/eng-heyrani/Python/blob/main/Lesson%20007.py)
+##### 8-Lesson 008.py    ====>    [*"List"*](https://github.com/eng-heyrani/Python/blob/main/Lesson%20008.py)
 # Contact US
 *Creative by Alireza Heyrani*<br>
 *Join us :* 
