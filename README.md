@@ -1,6 +1,7 @@
 # Python
-#### Hello, I am Alireza Heyrani, a web designer and developer ...
-#### I am a student of Mr. Mehdi Rezaei's Python course and I am sharing the class file with you friends.
+*Hello, I am Alireza Heyrani, a web designer and developer ...*
+<br>
+***I am a student of Mr. Mehdi Rezaei Python course and I am sharing the class file with you friends.***
 
 # Meetings
 ##### 1-Lesson 001.py    ====>    *"Hello World"*
